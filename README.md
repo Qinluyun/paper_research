@@ -3,18 +3,27 @@
 ## Physiology data processing
 ### Benchmark
 * [2019-Multitask Learning and BenchMarking with Clinical Time Series Data](https://github.com/Nicole2442/paper_research/blob/master/clinical%20related/Multitask%20Learning%20and%20BenchMarking%20with%20Clinical%20Time%20Series%20Data.pdf)	
-* other benchmark	
-### time series ata processing		
-#### RNN		
+* [2018-Benchmarking deep learning models on large healthcare datasets]()
+
+### time series data processing		
+#### RNN	
+	
 #### CNN	
+* [2018-Andrew Ng_PPG]()
+* [2017-Andrew Ng_ECG]()
 
 ---
 ## Robotics
-### VPR (visual place recognition)
-* 
+### SLAM
+#### VPR (visual place recognition)
+##### Survey
+* [2016-VRP survey](https://github.com/Nicole2442/paper_research/blob/master/robotics/slam/vpr/Visual%20Place%20Recognition%20A%20Survey.pdf)
 
----
-## Computer vision
-### Theory and basic
-*
+##### Database
+* [2019-StreetLearn]()
+	
+##### Methods
+* [2019-Neural Network-Based Long-Term Place Recognition from Omni-Images]()
+* [2017-Panorama to Panorama Matching for Location Recognition]()
+
 
