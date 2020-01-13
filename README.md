@@ -23,10 +23,10 @@
 * [2016-VRP survey](https://github.com/Nicole2442/paper_research/blob/master/robotics/slam/vpr/Visual%20Place%20Recognition%20A%20Survey.pdf)
 
 ##### Database
-* [2019-StreetLearn]()
+* [2019-StreetLearn](https://github.com/Nicole2442/paper_research/blob/master/robotics/slam/vpr/database/StreetLearn%20Dataset.pdf)
 	
 ##### Methods
-* [2019-Neural Network-Based Long-Term Place Recognition from Omni-Images]()
-* [2017-Panorama to Panorama Matching for Location Recognition]()
+* [2019-Neural Network-Based Long-Term Place Recognition from Omni-Images](https://github.com/Nicole2442/paper_research/blob/master/robotics/slam/vpr/methods/2019Neural%20Network-Based%20Long-Term%20Place%20Recognition%20from%20Omni-Images.pdf)
+* [2017-Panorama to Panorama Matching for Location Recognition](https://github.com/Nicole2442/paper_research/blob/master/robotics/slam/vpr/methods/2017-Panorama-to-panorama-matching-for-location-recognition.pdf)
 
 
