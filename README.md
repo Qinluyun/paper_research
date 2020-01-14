@@ -7,9 +7,14 @@
 
 ### Time series data processing		
 #### RNN	
+* [2018-Attend and diagnose: Clinical time series analysis using attention models]()
 * [2017-Learning to Diagnose with Lstm Recurrent Neural Networks](https://github.com/Nicole2442/paper_research/blob/master/physiology_data_processing/time_series_data_processing/RNN/2017-LEARNING%20TO%20DIAGNOSE%20WITH%20LSTM%20RECURRENT.pdf)
 * [2016-Doctor AI: Predicting Clinical Events via Recurrent Neural Networks](https://github.com/Nicole2442/paper_research/blob/master/physiology_data_processing/time_series_data_processing/RNN/2016-doctor%20AI.pdf)
 * [2016-Multi-task Prediction of Disease Onsets from Longitudinal Lab Tests](https://github.com/Nicole2442/paper_research/blob/master/physiology_data_processing/time_series_data_processing/RNN/2016-Multi-task%20Prediction%20of%20Disease%20Onsets%20from%20Longitudinal.pdf)
+
+##### Additional content
+* [2015-deep supervision]()
+* [2013-Skip-gram embedding]()
 	
 #### CNN	
 * [2018-Andrew Ng_PPG](https://github.com/Nicole2442/paper_research/blob/master/physiology_data_processing/time_series_data_processing/CNN/1811.07774%20Andrew%20Wu%20PPG.pdf)
