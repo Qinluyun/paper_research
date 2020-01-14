@@ -15,6 +15,9 @@
 * [2018-Andrew Ng_PPG](https://github.com/Nicole2442/paper_research/blob/master/physiology_data_processing/time_series_data_processing/CNN/1811.07774%20Andrew%20Wu%20PPG.pdf)
 * [2017-Andrew Ng_ECG](https://github.com/Nicole2442/paper_research/blob/master/physiology_data_processing/time_series_data_processing/CNN/1707.01836%20Andrew%20Wu%20ecg.pdf)
 
+### Artifact
+* [2009-survey](https://github.com/Nicole2442/paper_research/blob/master/physiology_data_processing/artifacts/Anomaly%2BDetection%2BA%2BSurvey%2B2009.pdf)
+
 ---
 ## Robotics
 ### SLAM
