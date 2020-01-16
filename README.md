@@ -5,7 +5,11 @@
 * [2019-Multitask Learning and BenchMarking with Clinical Time Series Data](https://github.com/Nicole2442/paper_research/blob/master/clinical%20related/Multitask%20Learning%20and%20BenchMarking%20with%20Clinical%20Time%20Series%20Data.pdf)	
 * [2018-Benchmarking deep learning models on large healthcare datasets](https://github.com/Nicole2442/paper_research/blob/master/physiology_data_processing/benchmark/1-s2.0-S1532046418300716-main.pdf)
 
-### Time series data processing		
+### Time series data processing	
+
+#### preprocessing
+* [2009-learning from imbalanced data]()
+
 #### RNN	
 * [2018-Attend and diagnose: Clinical time series analysis using attention models]()
 * [2017-Learning to Diagnose with Lstm Recurrent Neural Networks](https://github.com/Nicole2442/paper_research/blob/master/physiology_data_processing/time_series_data_processing/RNN/2017-LEARNING%20TO%20DIAGNOSE%20WITH%20LSTM%20RECURRENT.pdf)
