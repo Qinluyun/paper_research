@@ -8,7 +8,7 @@
 ### Time series data processing	
 
 #### preprocessing
-* [2009-learning from imbalanced data]()
+* [2009-learning from imbalanced data](https://github.com/Nicole2442/paper_research/blob/master/physiology_data_processing/time_series_data_processing/preprocessing/Learning_from_imbalanced_data.pdf)
 
 #### RNN	
 * [2018-Attend and diagnose: Clinical time series analysis using attention models]()
