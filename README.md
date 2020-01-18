@@ -1,13 +1,17 @@
 # Paper research
 ---
 ## Physiology data processing
+### Survey 
+* [2020-Artificial Intelligence in Anesthesiology]()
+* [2019-Deep learning for time series classification](https://github.com/Nicole2442/paper_research/blob/master/physiology_data_processing/survey/Deep_learning_for_time_series_classification_a_review_2019.pdf)
+
 ### Benchmark
 * [2019-Multitask Learning and BenchMarking with Clinical Time Series Data](https://github.com/Nicole2442/paper_research/blob/master/clinical%20related/Multitask%20Learning%20and%20BenchMarking%20with%20Clinical%20Time%20Series%20Data.pdf)	
 * [2018-Benchmarking deep learning models on large healthcare datasets](https://github.com/Nicole2442/paper_research/blob/master/physiology_data_processing/benchmark/1-s2.0-S1532046418300716-main.pdf)
 
 ### Time series data processing	
 
-#### preprocessing
+#### Preprocessing
 * [2009-learning from imbalanced data](https://github.com/Nicole2442/paper_research/blob/master/physiology_data_processing/time_series_data_processing/preprocessing/Learning_from_imbalanced_data.pdf)
 
 #### RNN	
@@ -25,6 +29,7 @@
 * [2017-Andrew Ng_ECG](https://github.com/Nicole2442/paper_research/blob/master/physiology_data_processing/time_series_data_processing/CNN/1707.01836%20Andrew%20Wu%20ecg.pdf)
 
 ### Artifact
+* [2012-survey]()
 * [2009-survey](https://github.com/Nicole2442/paper_research/blob/master/physiology_data_processing/artifacts/Anomaly%2BDetection%2BA%2BSurvey%2B2009.pdf)
 
 ---
