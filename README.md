@@ -5,6 +5,9 @@
 * [2020-Anesthetic Management Using Multiple Closed-loop Systems and Delayed Neurocognitive Recovery](https://github.com/Nicole2442/paper_research/blob/master/physiology_data_processing/survey/2020_Anesthetic%2BManagement%2BUsing%2BMultiple%2BClosed-loop%2BSystems%2Band%2BDelayed%2BNeurocognitive%2BRecovery-%2BA%2BRandomized%2BControlled%2BTrial.pdf)
 * [2020-Artificial Intelligence in Anesthesiology](https://github.com/Nicole2442/paper_research/blob/master/physiology_data_processing/survey/2020_Anesthesiology_Artificial%2BIntelligence%2Bin%2BAnesthesiology-%2BCurrent%2BTechniques%252C%2BClinical%2BApplications%252C%2Band%2BLimitations.pdf)
 * [2019-Deep learning for time series classification](https://github.com/Nicole2442/paper_research/blob/master/physiology_data_processing/survey/Deep_learning_for_time_series_classification_a_review_2019.pdf)
+#### HPI
+* [2019-Ability of an Arterial Waveform Analysis–Derived Hypotension Prediction Index to Predict Future Hypotensive Events in Surgical Patients]()
+* [2018-Machine-learning Algorithm to Predict Hypotension Based on High-fidelity Arterial Pressure Waveform Analysis]()
 
 ### Benchmark
 * [2019-Multitask Learning and BenchMarking with Clinical Time Series Data](https://github.com/Nicole2442/paper_research/blob/master/clinical%20related/Multitask%20Learning%20and%20BenchMarking%20with%20Clinical%20Time%20Series%20Data.pdf)	
