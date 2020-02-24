@@ -6,6 +6,7 @@
 |[Anesthetic Management Using Multiple Closedloop Systems and Delayed Neurocognitive Recovery]()|Anesthesiology|Closeloop system||Feb, 2020|1. fjoewhg<br>2. hfoiewhg<br>|
 |[Artificial Intelligence in Anesthesiology]()|Anesthesiology|Survey|MIT|Feb, 2020|1. fjoewhg<br>2. hfoiewhg<br>|
 |[Deep learning for time series classification: a review]()|Data Mining and Knowledge Discovery|Survey||Mar 2, 2019|1. fjoewhg<br>2. hfoiewhg<br>|
+|[Scalable and accurate deep learning with electronic health records]()|Nature-Digital Medicine|Survey||Jan 26, 2018|1. fjoewhg<br>2. hfoiewhg<br>|
 ## Benchmark
 |Title|Conference or journal|Class|University or organizations|Date|Conclusions|
 |--|--|--|--|--|--|
