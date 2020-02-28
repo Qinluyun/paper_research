@@ -3,6 +3,7 @@
 * [2020-Anesthetic Management Using Multiple Closed-loop Systems and Delayed Neurocognitive Recovery](https://github.com/Nicole2442/paper_research/blob/master/physiology_data_processing/survey/2020_Anesthetic%2BManagement%2BUsing%2BMultiple%2BClosed-loop%2BSystems%2Band%2BDelayed%2BNeurocognitive%2BRecovery-%2BA%2BRandomized%2BControlled%2BTrial.pdf)
 * [2020-Artificial Intelligence in Anesthesiology](https://github.com/Nicole2442/paper_research/blob/master/physiology_data_processing/survey/2020_Anesthesiology_Artificial%2BIntelligence%2Bin%2BAnesthesiology-%2BCurrent%2BTechniques%252C%2BClinical%2BApplications%252C%2Band%2BLimitations.pdf)
 * [2019-A guide to deep learning in healthcare]()
+* [2019-Artifical_Intelligence_and_Machine_Learning_in_Anesthesiology](https://github.com/Nicole2442/paper_research/blob/master/physiology_data_processing/survey/2019_Artifical_Intelligence_and_Machine_Learning_in_Anesthesiology.pdf)
 * [2019-Deep learning for time series classification](https://github.com/Nicole2442/paper_research/blob/master/physiology_data_processing/survey/Deep_learning_for_time_series_classification_a_review_2019.pdf)
 * [2019-Artificial intelligence in anesthesiology: Moving into the future]()
 * [medical big data]()
